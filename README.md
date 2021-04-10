@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshsr
+- 👋 Hi, I’m Harsh Istalkar
 - 👀 I’m interested in Game Development and Vehicle Dynamics simulation.
 - 🌱 I’m currently learning game development with UE4
 - 💞️ I’m looking to collaborate on ...
